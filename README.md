@@ -63,6 +63,7 @@ The file reverser script undoes the sorting performed by the file sorter, bringi
 
     - Select the source folder where files were previously sorted.
     - Watch as the script reverses the sorting, bringing files back to the original folder.
+![reversed](/images/sorted-reversed.png)
 
 ## Contribution
 
